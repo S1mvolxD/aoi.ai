@@ -1,1 +1,1 @@
-exports.GiveawaysManager = require('./classes/Manager.js').GiveawaysManager;
+const { AoiAI } = require("./classes/Manager.js");
