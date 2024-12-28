@@ -1,1 +1,0 @@
-exports.GiveawaysManager = require('./classes/Manager.js').GiveawaysManager;
